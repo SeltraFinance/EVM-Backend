@@ -1,0 +1,13 @@
+node_modules/
+dist/
+services/data/
+.env
+.env*.local
+.DS_Store
+.claude/
+docs/
+contracts/docs/
+contracts/broadcast/
+contracts/cache/
+contracts/out/
+addresses.json
